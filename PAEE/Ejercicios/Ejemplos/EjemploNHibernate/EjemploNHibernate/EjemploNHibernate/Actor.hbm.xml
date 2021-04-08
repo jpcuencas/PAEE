@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" assembly="EjemploNHibernate"
+                   namespace="EjemploNHibernate" default-access="field.camelcase"
+                   default-lazy="false">
+  <class name="Actor" table="Actores">
+    <id name="ActorID" column="ActorID" type="integer">
+      <generator class="native" />
+    </id>
+    <property name="Nombre" column="Nombre" type="String" length="200"/>
+    <property name="UrlPersonal" type="String" length="150"/>
+  </class>
+</hibernate-mapping>
+<!-- En las propiedades del fichero poner en Accion de compilación - Recurso incrustado-->

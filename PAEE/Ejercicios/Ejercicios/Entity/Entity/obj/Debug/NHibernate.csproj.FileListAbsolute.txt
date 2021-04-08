@@ -1,0 +1,8 @@
+C:\Users\Desi\Desktop\2013-2014\1. PAEE\Clase 2\NHibernate\NHibernate\obj\Debug\NHibernate.csproj.GenerateResource.Cache
+C:\Users\Desi\Desktop\2013-2014\1. PAEE\Clase 2\NHibernate\NHibernate\bin\Debug\NHibernate.exe.config
+C:\Users\Desi\Desktop\2013-2014\1. PAEE\Clase 2\NHibernate\NHibernate\obj\Debug\NHibernate.Properties.Resources.resources
+C:\Users\Desi\Desktop\2013-2014\1. PAEE\Clase 2\NHibernate\NHibernate\bin\Debug\NHibernate.exe
+C:\Users\Desi\Desktop\2013-2014\1. PAEE\Clase 2\NHibernate\NHibernate\bin\Debug\NHibernate.pdb
+C:\Users\Desi\Desktop\2013-2014\1. PAEE\Clase 2\NHibernate\NHibernate\obj\Debug\NHibernate.exe
+C:\Users\Desi\Desktop\2013-2014\1. PAEE\Clase 2\NHibernate\NHibernate\obj\Debug\NHibernate.pdb
+C:\Users\Desi\Desktop\2013-2014\1. PAEE\Clase 2\NHibernate\NHibernate\obj\Debug\NHibernate.FNHibernate.resources

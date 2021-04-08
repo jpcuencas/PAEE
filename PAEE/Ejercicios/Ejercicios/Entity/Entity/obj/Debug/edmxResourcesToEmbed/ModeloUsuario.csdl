@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MSDNVideoModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2006/04/edm">
+  <EntityContainer Name="MSDNVideoEntities1">
+    <EntitySet Name="Usuarios" EntityType="MSDNVideoModel.Usuarios" />
+  </EntityContainer>
+  <EntityType Name="Usuarios">
+    <Key>
+      <PropertyRef Name="UsuarioID" />
+    </Key>
+    <Property Name="UsuarioID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NIF" Type="String" Nullable="false" MaxLength="9" Unicode="true" FixedLength="true" />
+    <Property Name="Clave" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Rol" Type="Int16" Nullable="false" />
+    <Property Name="Nombre" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Telefono" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Email" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Direccion" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Ciudad" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Provincia" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="CodigoPostal" Type="Decimal" Precision="5" Scale="0" />
+    <Property Name="Saldo" Type="Decimal" Precision="18" Scale="0" />
+  </EntityType>
+</Schema>

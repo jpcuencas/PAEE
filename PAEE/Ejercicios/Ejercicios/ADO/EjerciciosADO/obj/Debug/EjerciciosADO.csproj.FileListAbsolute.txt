@@ -1,0 +1,112 @@
+C:\Users\Desi\Documents\Visual Studio 2008\Projects\ProyectoMASTER\EjerciciosADO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Desi\Documents\Visual Studio 2008\Projects\ProyectoMASTER\EjerciciosADO\obj\Debug\EjerciciosADO.FAdo.resources
+C:\Users\Desi\Documents\Visual Studio 2008\Projects\ProyectoMASTER\EjerciciosADO\obj\Debug\EjerciciosADO.Properties.Resources.resources
+C:\Users\Desi\Documents\Visual Studio 2008\Projects\ProyectoMASTER\EjerciciosADO\obj\Debug\EjerciciosADO.csproj.GenerateResource.Cache
+C:\Users\Desi\Documents\Visual Studio 2008\Projects\ProyectoMASTER\EjerciciosADO\bin\Debug\EjerciciosADO.exe
+C:\Users\Desi\Documents\Visual Studio 2008\Projects\ProyectoMASTER\EjerciciosADO\bin\Debug\EjerciciosADO.pdb
+C:\Users\Desi\Documents\Visual Studio 2008\Projects\ProyectoMASTER\EjerciciosADO\obj\Debug\EjerciciosADO.exe
+C:\Users\Desi\Documents\Visual Studio 2008\Projects\ProyectoMASTER\EjerciciosADO\obj\Debug\EjerciciosADO.pdb
+C:\Users\Desi\Documents\Visual Studio 2008\Projects\ProyectoMASTER\EjerciciosADO\obj\Debug\EjerciciosADO.FTableAdapter.resources
+C:\Users\Desi\Documents\Visual Studio 2008\Projects\ProyectoMASTER\EjerciciosADO\bin\Debug\EjerciciosADO.exe.config
+C:\Users\Desi\Documents\Visual Studio 2008\Projects\ProyectoMASTER\EjerciciosADO\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Desi\Documents\Visual Studio 2008\Projects\ProyectoMASTER\EjerciciosADO\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Desi\Documents\Visual Studio 2008\Projects\ProyectoMASTER\EjerciciosADO\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Desi\Documents\Visual Studio 2008\Projects\ProyectoMASTER\EjerciciosADO\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\Desi\Documents\Visual Studio 2008\Projects\ProyectoMASTER\EjerciciosADO\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\Desi\Documents\Visual Studio 2008\Projects\ProyectoMASTER\EjerciciosADO\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Desi\Desktop\MASTER\2009-2010\1. Desarrollo avanzado .NET\Clase 1 y 2\ProyectoMASTER\EjerciciosADO\bin\Debug\EjerciciosADO.exe.config
+C:\Users\Desi\Desktop\MASTER\2009-2010\1. Desarrollo avanzado .NET\Clase 1 y 2\ProyectoMASTER\EjerciciosADO\obj\Debug\EjerciciosADO.exe
+C:\Users\Desi\Desktop\MASTER\2009-2010\1. Desarrollo avanzado .NET\Clase 1 y 2\ProyectoMASTER\EjerciciosADO\obj\Debug\EjerciciosADO.pdb
+C:\Users\Desi\Desktop\MASTER\2009-2010\1. Desarrollo avanzado .NET\Clase 1 y 2\ProyectoMASTER\EjerciciosADO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Desi\Desktop\MASTER\2009-2010\1. Desarrollo avanzado .NET\Clase 1 y 2\ProyectoMASTER\EjerciciosADO\obj\Debug\EjerciciosADO.FAdo.resources
+C:\Users\Desi\Desktop\MASTER\2009-2010\1. Desarrollo avanzado .NET\Clase 1 y 2\ProyectoMASTER\EjerciciosADO\obj\Debug\EjerciciosADO.FTableAdapter.resources
+C:\Users\Desi\Desktop\MASTER\2009-2010\1. Desarrollo avanzado .NET\Clase 1 y 2\ProyectoMASTER\EjerciciosADO\obj\Debug\EjerciciosADO.Properties.Resources.resources
+C:\Users\Desi\Desktop\MASTER\2009-2010\1. Desarrollo avanzado .NET\Clase 1 y 2\ProyectoMASTER\EjerciciosADO\obj\Debug\EjerciciosADO.csproj.GenerateResource.Cache
+C:\Users\Desi\Desktop\MASTER\2009-2010\1. Desarrollo avanzado .NET\Clase 1 y 2\ProyectoMASTER\EjerciciosADO\bin\Debug\EjerciciosADO.exe
+C:\Users\Desi\Desktop\MASTER\2009-2010\1. Desarrollo avanzado .NET\Clase 1 y 2\ProyectoMASTER\EjerciciosADO\bin\Debug\EjerciciosADO.pdb
+C:\Users\Desi\Desktop\MASTER\2009-2010\1. Desarrollo avanzado .NET\Clase 1 y 2\Ejercicios ADO y TableAdapters\EjerciciosADO\bin\Debug\EjerciciosADO.exe.config
+C:\Users\Desi\Desktop\MASTER\2009-2010\1. Desarrollo avanzado .NET\Clase 1 y 2\Ejercicios ADO y TableAdapters\EjerciciosADO\obj\Debug\EjerciciosADO.exe
+C:\Users\Desi\Desktop\MASTER\2009-2010\1. Desarrollo avanzado .NET\Clase 1 y 2\Ejercicios ADO y TableAdapters\EjerciciosADO\obj\Debug\EjerciciosADO.pdb
+C:\Users\Desi\Desktop\MASTER\2009-2010\1. Desarrollo avanzado .NET\Clase 1 y 2\Ejercicios ADO y TableAdapters\EjerciciosADO\bin\Debug\EjerciciosADO.exe
+C:\Users\Desi\Desktop\MASTER\2009-2010\1. Desarrollo avanzado .NET\Clase 1 y 2\Ejercicios ADO y TableAdapters\EjerciciosADO\bin\Debug\EjerciciosADO.pdb
+C:\Users\Desi\Desktop\MASTER\2009-2010\1. Desarrollo avanzado .NET\Clase 1 y 2\Ejercicios ADO y TableAdapters\EjerciciosADO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Desi\Desktop\MASTER\2009-2010\1. Desarrollo avanzado .NET\Clase 1 y 2\Ejercicios ADO y TableAdapters\EjerciciosADO\obj\Debug\EjerciciosADO.FAdo.resources
+C:\Users\Desi\Desktop\MASTER\2009-2010\1. Desarrollo avanzado .NET\Clase 1 y 2\Ejercicios ADO y TableAdapters\EjerciciosADO\obj\Debug\EjerciciosADO.FTableAdapter.resources
+C:\Users\Desi\Desktop\MASTER\2009-2010\1. Desarrollo avanzado .NET\Clase 1 y 2\Ejercicios ADO y TableAdapters\EjerciciosADO\obj\Debug\EjerciciosADO.Properties.Resources.resources
+C:\Users\Desi\Desktop\MASTER\2009-2010\1. Desarrollo avanzado .NET\Clase 1 y 2\Ejercicios ADO y TableAdapters\EjerciciosADO\obj\Debug\EjerciciosADO.csproj.GenerateResource.Cache
+C:\Users\Desi\Desktop\MASTER\2009-2010\1. Desarrollo avanzado .NET\Clase 1\Ejercicios ADO y TableAdapters\EjerciciosADO\bin\Debug\EjerciciosADO.exe.config
+C:\Users\Desi\Desktop\MASTER\2009-2010\1. Desarrollo avanzado .NET\Clase 1\Ejercicios ADO y TableAdapters\EjerciciosADO\obj\Debug\EjerciciosADO.exe
+C:\Users\Desi\Desktop\MASTER\2009-2010\1. Desarrollo avanzado .NET\Clase 1\Ejercicios ADO y TableAdapters\EjerciciosADO\obj\Debug\EjerciciosADO.pdb
+K:\MASTER\2010-2011\Programación avanzada en entornos de escritorio\Clase 1\Ejercicios\EjerciciosADO\bin\Debug\EjerciciosADO.exe.config
+K:\MASTER\2010-2011\Programación avanzada en entornos de escritorio\Clase 1\Ejercicios\EjerciciosADO\obj\Debug\EjerciciosADO.exe
+K:\MASTER\2010-2011\Programación avanzada en entornos de escritorio\Clase 1\Ejercicios\EjerciciosADO\obj\Debug\EjerciciosADO.pdb
+K:\MASTER\2010-2011\Programación avanzada en entornos de escritorio\Clase 1\Ejercicios\EjerciciosADO\bin\Debug\EjerciciosADO.exe
+K:\MASTER\2010-2011\Programación avanzada en entornos de escritorio\Clase 1\Ejercicios\EjerciciosADO\bin\Debug\EjerciciosADO.pdb
+K:\MASTER\2010-2011\Programación avanzada en entornos de escritorio\Clase 1\Ejercicios\EjerciciosADO\obj\Debug\ResolveAssemblyReference.cache
+K:\MASTER\2010-2011\Programación avanzada en entornos de escritorio\Clase 1\Ejercicios\EjerciciosADO\obj\Debug\EjerciciosADO.FAdo.resources
+K:\MASTER\2010-2011\Programación avanzada en entornos de escritorio\Clase 1\Ejercicios\EjerciciosADO\obj\Debug\EjerciciosADO.Properties.Resources.resources
+K:\MASTER\2010-2011\Programación avanzada en entornos de escritorio\Clase 1\Ejercicios\EjerciciosADO\obj\Debug\EjerciciosADO.csproj.GenerateResource.Cache
+C:\Users\Desi\Desktop\MASTER\2011-2012\Clase 1\Ejercicios\EjerciciosADO\bin\Debug\EjerciciosADO.exe.config
+C:\Users\Desi\Desktop\MASTER\2011-2012\Clase 1\Ejercicios\EjerciciosADO\obj\Debug\EjerciciosADO.exe
+C:\Users\Desi\Desktop\MASTER\2011-2012\Clase 1\Ejercicios\EjerciciosADO\obj\Debug\EjerciciosADO.pdb
+C:\Users\Desi\Desktop\MASTER\2011-2012\Clase 1\Ejercicios\EjerciciosADO\bin\Debug\EjerciciosADO.exe
+C:\Users\Desi\Desktop\MASTER\2011-2012\Clase 1\Ejercicios\EjerciciosADO\bin\Debug\EjerciciosADO.pdb
+C:\Users\Desi\Desktop\MASTER\2011-2012\Clase 1\Ejercicios\EjerciciosADO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Desi\Desktop\MASTER\2011-2012\Clase 1\Ejercicios\EjerciciosADO\obj\Debug\EjerciciosADO.FAdo.resources
+C:\Users\Desi\Desktop\MASTER\2011-2012\Clase 1\Ejercicios\EjerciciosADO\obj\Debug\EjerciciosADO.Properties.Resources.resources
+C:\Users\Desi\Desktop\MASTER\2011-2012\Clase 1\Ejercicios\EjerciciosADO\obj\Debug\ResGen.read.1.tlog
+C:\Users\Desi\Desktop\MASTER\2011-2012\Clase 1\Ejercicios\EjerciciosADO\obj\Debug\ResGen.write.1.tlog
+C:\Users\Desi\Desktop\MASTER\2011-2012\Clase 1\Ejercicios\ADO\EjerciciosADO\bin\Debug\EjerciciosADO.exe.config
+C:\Users\Desi\Desktop\MASTER\2011-2012\Clase 1\Ejercicios\ADO\EjerciciosADO\obj\Debug\EjerciciosADO.exe
+C:\Users\Desi\Desktop\MASTER\2011-2012\Clase 1\Ejercicios\ADO\EjerciciosADO\obj\Debug\EjerciciosADO.pdb
+C:\Users\Desi\Desktop\2013-2014\1. PAEE\Clase 1\Ejercicios\ADO\EjerciciosADO\bin\Debug\EjerciciosADO.exe.config
+C:\Users\Desi\Desktop\2013-2014\1. PAEE\Clase 1\Ejercicios\ADO\EjerciciosADO\obj\Debug\EjerciciosADO.exe
+C:\Users\Desi\Desktop\2013-2014\1. PAEE\Clase 1\Ejercicios\ADO\EjerciciosADO\obj\Debug\EjerciciosADO.pdb
+E:\1. PAEE\Clase 1\Ejercicios\ADO\EjerciciosADO\bin\Debug\EjerciciosADO.exe.config
+E:\1. PAEE\Clase 1\Ejercicios\ADO\EjerciciosADO\obj\Debug\EjerciciosADO.exe
+E:\1. PAEE\Clase 1\Ejercicios\ADO\EjerciciosADO\obj\Debug\EjerciciosADO.pdb
+D:\Documents\Visual Studio 2010\PAEE\Ejercicios que hacer\ADO\EjerciciosADO\bin\Debug\EjerciciosADO.exe.config
+D:\Documents\Visual Studio 2010\PAEE\Ejercicios que hacer\ADO\EjerciciosADO\obj\Debug\EjerciciosADO.exe
+D:\Documents\Visual Studio 2010\PAEE\Ejercicios que hacer\ADO\EjerciciosADO\obj\Debug\EjerciciosADO.pdb
+E:\VS 2010\Ejercicios\Ejercicios que hacer\ADO\EjerciciosADO\bin\Debug\EjerciciosADO.exe.config
+E:\VS 2010\Ejercicios\Ejercicios que hacer\ADO\EjerciciosADO\obj\Debug\EjerciciosADO.exe
+E:\VS 2010\Ejercicios\Ejercicios que hacer\ADO\EjerciciosADO\obj\Debug\EjerciciosADO.pdb
+E:\VS 2010\Ejercicios\Ejercicios que hacer\ADO\EjerciciosADO\bin\Debug\EjerciciosADO.exe
+E:\VS 2010\Ejercicios\Ejercicios que hacer\ADO\EjerciciosADO\bin\Debug\EjerciciosADO.pdb
+E:\VS 2010\Ejercicios\Ejercicios que hacer\ADO\EjerciciosADO\obj\Debug\ResolveAssemblyReference.cache
+E:\VS 2010\Ejercicios\Ejercicios que hacer\ADO\EjerciciosADO\obj\Debug\EjerciciosADO.FAdo.resources
+E:\VS 2010\Ejercicios\Ejercicios que hacer\ADO\EjerciciosADO\obj\Debug\EjerciciosADO.Properties.Resources.resources
+E:\VS 2010\Ejercicios\Ejercicios que hacer\ADO\EjerciciosADO\obj\Debug\GenerateResource.read.1.tlog
+E:\VS 2010\Ejercicios\Ejercicios que hacer\ADO\EjerciciosADO\obj\Debug\ResGen.read.1.tlog
+E:\VS 2010\Ejercicios\Ejercicios que hacer\ADO\EjerciciosADO\obj\Debug\GenerateResource.write.1.tlog
+E:\VS 2010\Ejercicios\Ejercicios que hacer\ADO\EjerciciosADO\obj\Debug\ResGen.write.1.tlog
+H:\VS 2010\Ejercicios\Ejercicios que hacer\ADO\EjerciciosADO\bin\Debug\EjerciciosADO.exe.config
+H:\VS 2010\Ejercicios\Ejercicios que hacer\ADO\EjerciciosADO\obj\Debug\EjerciciosADO.exe
+H:\VS 2010\Ejercicios\Ejercicios que hacer\ADO\EjerciciosADO\obj\Debug\EjerciciosADO.pdb
+H:\VS 2010\Ejercicios\Ejercicios que hacer\ADO\EjerciciosADO\bin\Debug\EjerciciosADO.exe
+H:\VS 2010\Ejercicios\Ejercicios que hacer\ADO\EjerciciosADO\bin\Debug\EjerciciosADO.pdb
+H:\VS 2010\Ejercicios\Ejercicios que hacer\ADO\EjerciciosADO\obj\Debug\ResolveAssemblyReference.cache
+H:\VS 2010\Ejercicios\Ejercicios que hacer\ADO\EjerciciosADO\obj\Debug\EjerciciosADO.FAdo.resources
+H:\VS 2010\Ejercicios\Ejercicios que hacer\ADO\EjerciciosADO\obj\Debug\EjerciciosADO.Properties.Resources.resources
+H:\VS 2010\Ejercicios\Ejercicios que hacer\ADO\EjerciciosADO\obj\Debug\GenerateResource.read.1.tlog
+H:\VS 2010\Ejercicios\Ejercicios que hacer\ADO\EjerciciosADO\obj\Debug\ResGen.read.1.tlog
+H:\VS 2010\Ejercicios\Ejercicios que hacer\ADO\EjerciciosADO\obj\Debug\GenerateResource.write.1.tlog
+H:\VS 2010\Ejercicios\Ejercicios que hacer\ADO\EjerciciosADO\obj\Debug\ResGen.write.1.tlog
+H:\VS 2010\Ejercicios\ADOEjercicios\ADO\EjerciciosADO\bin\Debug\EjerciciosADO.exe.config
+H:\VS 2010\Ejercicios\ADOEjercicios\ADO\EjerciciosADO\obj\Debug\EjerciciosADO.exe
+H:\VS 2010\Ejercicios\ADOEjercicios\ADO\EjerciciosADO\obj\Debug\EjerciciosADO.pdb
+E:\VS 2010\Ejercicios\Ejercicios\ADO\EjerciciosADO\bin\Debug\EjerciciosADO.exe.config
+E:\VS 2010\Ejercicios\Ejercicios\ADO\EjerciciosADO\obj\Debug\EjerciciosADO.exe
+E:\VS 2010\Ejercicios\Ejercicios\ADO\EjerciciosADO\obj\Debug\EjerciciosADO.pdb
+E:\VS 2010\Ejercicios\Ejercicios\ADO\EjerciciosADO\bin\Debug\EjerciciosADO.exe
+E:\VS 2010\Ejercicios\Ejercicios\ADO\EjerciciosADO\bin\Debug\EjerciciosADO.pdb
+E:\VS 2010\Ejercicios\Ejercicios\ADO\EjerciciosADO\obj\Debug\ResolveAssemblyReference.cache
+E:\VS 2010\Ejercicios\Ejercicios\ADO\EjerciciosADO\obj\Debug\EjerciciosADO.FAdo.resources
+E:\VS 2010\Ejercicios\Ejercicios\ADO\EjerciciosADO\obj\Debug\EjerciciosADO.Properties.Resources.resources
+E:\VS 2010\Ejercicios\Ejercicios\ADO\EjerciciosADO\obj\Debug\GenerateResource.read.1.tlog
+E:\VS 2010\Ejercicios\Ejercicios\ADO\EjerciciosADO\obj\Debug\ResGen.read.1.tlog
+E:\VS 2010\Ejercicios\Ejercicios\ADO\EjerciciosADO\obj\Debug\GenerateResource.write.1.tlog
+E:\VS 2010\Ejercicios\Ejercicios\ADO\EjerciciosADO\obj\Debug\ResGen.write.1.tlog
+H:\VS 2010\Ejercicios\Ejercicios\ADO\EjerciciosADO\bin\Debug\EjerciciosADO.exe.config
+H:\VS 2010\Ejercicios\Ejercicios\ADO\EjerciciosADO\obj\Debug\EjerciciosADO.exe
+H:\VS 2010\Ejercicios\Ejercicios\ADO\EjerciciosADO\obj\Debug\EjerciciosADO.pdb

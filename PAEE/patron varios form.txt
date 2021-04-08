@@ -1,0 +1,2 @@
+patron factory de .net
+patron de tipo CAD CEN

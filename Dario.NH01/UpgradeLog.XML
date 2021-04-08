@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Dario.NH01">
+</Property><Property Name="Archivo de la solución" Value="D:\Desktop\Dario.NH01\Dario.NH01.sln">
+</Property><Property Name="Archivo de opciones de usuario" Value="D:\Desktop\Dario.NH01\Dario.NH01.suo">
+</Property><Property Name="Date" Value="sábado, 12 de octubre de 2013">
+</Property><Property Name="Time" Value="16:41">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Dario.NH01.sln" Description="La copia D:\Desktop\Dario.NH01\Backup\Dario.NH01.sln del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="" Source="Dario.NH01.suo" Description="La copia D:\Desktop\Dario.NH01\Backup\Dario.NH01.suo del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="Dario.NH01" Source="Dario.NH01\Dario.NH01.csproj" Description="Se realizó correctamente la copia de seguridad del archivo de proyecto D:\Desktop\Dario.NH01\Backup\Dario.NH01\Dario.NH01.csproj">
+</Event><Event ErrorLevel="0" Project="Dario.NH01" Source="Dario.NH01\Dario.NH01.csproj.user" Description="La copia de seguridad D:\Desktop\Dario.NH01\Backup\Dario.NH01\Dario.NH01.csproj.user del archivo se ha creado correctamente">
+</Event><Event ErrorLevel="0" Project="Dario.NH01" Source="Dario.NH01\Entidades\Factura.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\Desktop\Dario.NH01\Backup\Dario.NH01\Entidades\Factura.cs">
+</Event><Event ErrorLevel="0" Project="Dario.NH01" Source="Dario.NH01\Entidades\LineaFactura.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\Desktop\Dario.NH01\Backup\Dario.NH01\Entidades\LineaFactura.cs">
+</Event><Event ErrorLevel="0" Project="Dario.NH01" Source="Dario.NH01\Entidades\Producto.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\Desktop\Dario.NH01\Backup\Dario.NH01\Entidades\Producto.cs">
+</Event><Event ErrorLevel="0" Project="Dario.NH01" Source="Dario.NH01\Program.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\Desktop\Dario.NH01\Backup\Dario.NH01\Program.cs">
+</Event><Event ErrorLevel="0" Project="Dario.NH01" Source="Dario.NH01\Properties\AssemblyInfo.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\Desktop\Dario.NH01\Backup\Dario.NH01\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Dario.NH01" Source="Dario.NH01\Entidades\Entidades.cd" Description="Se realizó correctamente la copia de seguridad del archivo D:\Desktop\Dario.NH01\Backup\Dario.NH01\Entidades\Entidades.cd">
+</Event><Event ErrorLevel="0" Project="Dario.NH01" Source="Dario.NH01\hibernate.cfg.xml" Description="Se realizó correctamente la copia de seguridad del archivo D:\Desktop\Dario.NH01\Backup\Dario.NH01\hibernate.cfg.xml">
+</Event><Event ErrorLevel="0" Project="Dario.NH01" Source="Dario.NH01\Mappings\Factura.hbm.xml" Description="Se realizó correctamente la copia de seguridad del archivo D:\Desktop\Dario.NH01\Backup\Dario.NH01\Mappings\Factura.hbm.xml">
+</Event><Event ErrorLevel="0" Project="Dario.NH01" Source="Dario.NH01\Mappings\LineaFactura.hbm.xml" Description="Se realizó correctamente la copia de seguridad del archivo D:\Desktop\Dario.NH01\Backup\Dario.NH01\Mappings\LineaFactura.hbm.xml">
+</Event><Event ErrorLevel="0" Project="Dario.NH01" Source="Dario.NH01\Mappings\Producto.hbm.xml" Description="Se realizó correctamente la copia de seguridad del archivo D:\Desktop\Dario.NH01\Backup\Dario.NH01\Mappings\Producto.hbm.xml">
+</Event><Event ErrorLevel="1" Project="Dario.NH01" Source="Dario.NH01\Dario.NH01.csproj" Description="La versión de destino de su proyecto es .NET Framework 2.0 ó 3.0. Si el proyecto utiliza ensamblados que requieren una versión más reciente de .NET Framework, no se podrá compilar. Puede cambiar la versión de .NET Framework haciendo clic en Propiedades en el menú del proyecto y seleccionando una nueva versión en el cuadro desplegable '.NET Framework'. (En Visual Basic, haga clic en el botón 'Opciones avanzadas del compilador...' en la pestaña Compilar).">
+</Event><Event ErrorLevel="0" Project="Dario.NH01" Source="Dario.NH01\Dario.NH01.csproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="Dario.NH01" Source="Dario.NH01\Dario.NH01.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Dario.NH01.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="Dario.NH01.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Dario.NH01" Source="Dario.NH01\Dario.NH01.csproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event></UpgradeLog>

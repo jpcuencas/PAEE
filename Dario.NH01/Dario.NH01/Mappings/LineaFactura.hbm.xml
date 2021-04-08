@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" assembly="Dario.NH01" namespace="Dario.NH01.Entidades">
+
+  <class name="LineaFactura">
+
+    <id name="Id" column ="IdLineaFactura" type="int" unsaved-value="0">
+      <generator class="identity"/>
+    </id>
+
+    <property name="Cantidad" type="int" />
+    <property name="Precio" type ="Decimal"/>
+
+    <many-to-one name="Factura" column="IdFactura" class="Factura" />
+    <many-to-one name="Producto" column="IdProducto" class="Producto" />
+
+  </class>
+</hibernate-mapping>

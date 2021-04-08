@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MSDNVideoModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="MSDNVideoModelStoreContainer">
+    <EntitySet Name="Usuarios" EntityType="MSDNVideoModel.Store.Usuarios" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="Usuarios">
+    <Key>
+      <PropertyRef Name="UsuarioID" />
+    </Key>
+    <Property Name="UsuarioID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="NIF" Type="nchar" Nullable="false" MaxLength="9" />
+    <Property Name="Clave" Type="nvarchar" MaxLength="50" />
+    <Property Name="Rol" Type="smallint" Nullable="false" />
+    <Property Name="Nombre" Type="nvarchar" MaxLength="50" />
+    <Property Name="Telefono" Type="nvarchar" MaxLength="50" />
+    <Property Name="Email" Type="nvarchar" MaxLength="50" />
+    <Property Name="Direccion" Type="nvarchar" MaxLength="50" />
+    <Property Name="Ciudad" Type="nvarchar" MaxLength="50" />
+    <Property Name="Provincia" Type="nvarchar" MaxLength="50" />
+    <Property Name="CodigoPostal" Type="decimal" Precision="5" />
+    <Property Name="Saldo" Type="decimal" />
+  </EntityType>
+  <Function Name="ModificarClaveUsuario" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="clave" Type="nvarchar" Mode="In" />
+    <Parameter Name="nif" Type="nchar" Mode="In" />
+  </Function>
+  <Function Name="ObtenerClaveUsuario" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="nif" Type="nchar" Mode="In" />
+  </Function>
+  <Function Name="ObtenerInformeSaldos" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+</Schema>

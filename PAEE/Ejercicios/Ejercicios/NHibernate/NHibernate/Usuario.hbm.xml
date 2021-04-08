@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" assembly="EjercicioNHibernate"
+                   namespace="EjercicioNHibernate" default-access="field.camelcase"
+                   default-lazy="false">
+  <!--Tabla usuarios-->
+  <class name="Usuario" table="Usuarios">
+    <id name="UsuarioID" column="UsuarioID" type="integer"><!--identificador de la tabla-->
+      <generator class="native" />
+    </id>
+    <!--propiedades del usuario-->
+    <property name="Nombre" column="Nombre" type="String" length="50"/>
+    <property name="Nif" column="NIF" type="String" length="9"/><!--nchar(9)-->
+    <property name="Rol" type="integer"/><!--Smallint-->
+    <property name="Telefono" type="String" length="50"/>
+    <property name="Email" type="String" length="50"/>
+    <property name="Direccion" type="String" length="50"/>
+    <property name="Ciudad" type="String" length="50"/>
+    <property name="Provincia" type="String" length="50"/>
+    <property name="CodigoPostal" type ="decimal"/><!--decimal 5.0-->
+    <property name="Saldo" type ="decimal"/><!--decimal 18.0-->
+  </class>
+</hibernate-mapping>
+<!-- En las propiedades del fichero poner en Accion de compilación - Recurso incrustado-->

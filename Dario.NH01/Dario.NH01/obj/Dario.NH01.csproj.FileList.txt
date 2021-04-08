@@ -1,0 +1,13 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\Dario.NH01.exe
+bin\Debug\Dario.NH01.pdb
+bin\Debug\NHibernate.dll
+obj\Debug\Dario.NH01.exe
+obj\Debug\Dario.NH01.pdb
+obj\Debug\Dario.NH01.Mappings.Factura.hbm.xml
+obj\Debug\Dario.NH01.Mappings.LineaFactura.hbm.xml
+obj\Debug\Dario.NH01.Mappings.Producto.hbm.xml
+bin\Debug\hibernate.cfg.xml
+bin\Debug\log4net.dll
+bin\Debug\Iesi.Collections.dll
+bin\Debug\Castle.DynamicProxy.dll

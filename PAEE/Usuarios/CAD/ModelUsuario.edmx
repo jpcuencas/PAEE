@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="2.0" xmlns:edmx="http://schemas.microsoft.com/ado/2008/10/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="MSDNVideoModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+        <EntityContainer Name="MSDNVideoModelStoreContainer">
+          <EntitySet Name="Usuarios" EntityType="MSDNVideoModel.Store.Usuarios" store:Type="Tables" Schema="dbo" />
+        </EntityContainer>
+        <EntityType Name="Usuarios">
+          <Key>
+            <PropertyRef Name="UsuarioID" />
+          </Key>
+          <Property Name="UsuarioID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="NIF" Type="nchar" Nullable="false" MaxLength="9" />
+          <Property Name="Clave" Type="nvarchar" MaxLength="50" />
+          <Property Name="Rol" Type="smallint" Nullable="false" />
+          <Property Name="Nombre" Type="nvarchar" MaxLength="50" />
+          <Property Name="Telefono" Type="nvarchar" MaxLength="50" />
+          <Property Name="Email" Type="nvarchar" MaxLength="50" />
+          <Property Name="Direccion" Type="nvarchar" MaxLength="50" />
+          <Property Name="Ciudad" Type="nvarchar" MaxLength="50" />
+          <Property Name="Provincia" Type="nvarchar" MaxLength="50" />
+          <Property Name="CodigoPostal" Type="decimal" Precision="5" />
+          <Property Name="Saldo" Type="decimal" />
+        </EntityType>
+        <Function Name="ModificarClaveUsuario" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="clave" Type="nvarchar" Mode="In" />
+          <Parameter Name="nif" Type="nchar" Mode="In" />
+        </Function>
+        <Function Name="ObtenerClaveUsuario" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="nif" Type="nchar" Mode="In" />
+        </Function>
+        <Function Name="ObtenerInformeSaldos" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="MSDNVideoModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+        <EntityContainer Name="MSDNVideoEntities1" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Usuarios" EntityType="MSDNVideoModel.Usuarios" />
+        </EntityContainer>
+        <EntityType Name="Usuarios">
+          <Key>
+            <PropertyRef Name="UsuarioID" />
+          </Key>
+          <Property Name="UsuarioID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="NIF" Type="String" Nullable="false" MaxLength="9" Unicode="true" FixedLength="true" />
+          <Property Name="Clave" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="Rol" Type="Int16" Nullable="false" />
+          <Property Name="Nombre" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="Telefono" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="Email" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="Direccion" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="Ciudad" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="Provincia" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="CodigoPostal" Type="Decimal" Precision="5" Scale="0" />
+          <Property Name="Saldo" Type="Decimal" Precision="18" Scale="0" />
+        </EntityType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="MSDNVideoModelStoreContainer" CdmEntityContainer="MSDNVideoEntities1">
+          <EntitySetMapping Name="Usuarios"><EntityTypeMapping TypeName="MSDNVideoModel.Usuarios"><MappingFragment StoreEntitySet="Usuarios">
+            <ScalarProperty Name="UsuarioID" ColumnName="UsuarioID" />
+            <ScalarProperty Name="NIF" ColumnName="NIF" />
+            <ScalarProperty Name="Clave" ColumnName="Clave" />
+            <ScalarProperty Name="Rol" ColumnName="Rol" />
+            <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+            <ScalarProperty Name="Telefono" ColumnName="Telefono" />
+            <ScalarProperty Name="Email" ColumnName="Email" />
+            <ScalarProperty Name="Direccion" ColumnName="Direccion" />
+            <ScalarProperty Name="Ciudad" ColumnName="Ciudad" />
+            <ScalarProperty Name="Provincia" ColumnName="Provincia" />
+            <ScalarProperty Name="CodigoPostal" ColumnName="CodigoPostal" />
+            <ScalarProperty Name="Saldo" ColumnName="Saldo" />
+          </MappingFragment></EntityTypeMapping></EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2008/10/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="False" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="True" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams>
+      <Diagram Name="ModelUsuario">
+        <EntityTypeShape EntityType="MSDNVideoModel.Usuarios" Width="1.5" PointX="0.75" PointY="0.75" Height="3.3263964843749996" IsExpanded="true" />
+      </Diagram>
+    </Diagrams>
+  </Designer>
+</edmx:Edmx>

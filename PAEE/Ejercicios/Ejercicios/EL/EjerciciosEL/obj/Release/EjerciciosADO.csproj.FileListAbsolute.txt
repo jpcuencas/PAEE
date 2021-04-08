@@ -1,0 +1,27 @@
+F:\MASTER\2010-2011\Programación avanzada en entornos de escritorio\Clase 2\ProyectoMASTER\EjerciciosADO\bin\Release\EjerciciosADO.exe.config
+F:\MASTER\2010-2011\Programación avanzada en entornos de escritorio\Clase 2\ProyectoMASTER\EjerciciosADO\bin\Release\EjerciciosADO.exe
+F:\MASTER\2010-2011\Programación avanzada en entornos de escritorio\Clase 2\ProyectoMASTER\EjerciciosADO\bin\Release\EjerciciosADO.pdb
+F:\MASTER\2010-2011\Programación avanzada en entornos de escritorio\Clase 2\ProyectoMASTER\EjerciciosADO\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\MASTER\2010-2011\Programación avanzada en entornos de escritorio\Clase 2\ProyectoMASTER\EjerciciosADO\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\MASTER\2010-2011\Programación avanzada en entornos de escritorio\Clase 2\ProyectoMASTER\EjerciciosADO\bin\Release\Microsoft.Practices.Unity.dll
+F:\MASTER\2010-2011\Programación avanzada en entornos de escritorio\Clase 2\ProyectoMASTER\EjerciciosADO\bin\Release\Microsoft.Practices.ServiceLocation.dll
+F:\MASTER\2010-2011\Programación avanzada en entornos de escritorio\Clase 2\ProyectoMASTER\EjerciciosADO\bin\Release\Microsoft.Practices.Unity.Interception.dll
+F:\MASTER\2010-2011\Programación avanzada en entornos de escritorio\Clase 2\ProyectoMASTER\EjerciciosADO\bin\Release\Microsoft.Practices.Unity.pdb
+F:\MASTER\2010-2011\Programación avanzada en entornos de escritorio\Clase 2\ProyectoMASTER\EjerciciosADO\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+F:\MASTER\2010-2011\Programación avanzada en entornos de escritorio\Clase 2\ProyectoMASTER\EjerciciosADO\bin\Release\Microsoft.Practices.Unity.Interception.pdb
+F:\MASTER\2010-2011\Programación avanzada en entornos de escritorio\Clase 2\ProyectoMASTER\EjerciciosADO\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+F:\MASTER\2010-2011\Programación avanzada en entornos de escritorio\Clase 2\ProyectoMASTER\EjerciciosADO\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.xml
+F:\MASTER\2010-2011\Programación avanzada en entornos de escritorio\Clase 2\ProyectoMASTER\EjerciciosADO\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+F:\MASTER\2010-2011\Programación avanzada en entornos de escritorio\Clase 2\ProyectoMASTER\EjerciciosADO\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+F:\MASTER\2010-2011\Programación avanzada en entornos de escritorio\Clase 2\ProyectoMASTER\EjerciciosADO\obj\Release\ResolveAssemblyReference.cache
+F:\MASTER\2010-2011\Programación avanzada en entornos de escritorio\Clase 2\ProyectoMASTER\EjerciciosADO\obj\Release\EjerciciosADO.FAdo.resources
+F:\MASTER\2010-2011\Programación avanzada en entornos de escritorio\Clase 2\ProyectoMASTER\EjerciciosADO\obj\Release\EjerciciosADO.Properties.Resources.resources
+F:\MASTER\2010-2011\Programación avanzada en entornos de escritorio\Clase 2\ProyectoMASTER\EjerciciosADO\obj\Release\EjerciciosADO.csproj.GenerateResource.Cache
+F:\MASTER\2010-2011\Programación avanzada en entornos de escritorio\Clase 2\ProyectoMASTER\EjerciciosADO\obj\Release\EjerciciosADO.exe
+F:\MASTER\2010-2011\Programación avanzada en entornos de escritorio\Clase 2\ProyectoMASTER\EjerciciosADO\obj\Release\EjerciciosADO.pdb
+C:\Users\Desi\Desktop\MASTER\2010-2011\Programación avanzada en entornos de escritorio\Clase 2\ProyectoMASTER\EjerciciosADO\bin\Release\EjerciciosADO.exe.config
+C:\Users\Desi\Desktop\MASTER\2010-2011\Programación avanzada en entornos de escritorio\Clase 2\ProyectoMASTER\EjerciciosADO\obj\Release\EjerciciosADO.exe
+C:\Users\Desi\Desktop\MASTER\2010-2011\Programación avanzada en entornos de escritorio\Clase 2\ProyectoMASTER\EjerciciosADO\obj\Release\EjerciciosADO.pdb
+C:\Users\Desi\Desktop\MASTER\2011-2012\Clase 2\ProyectoMASTER\EjerciciosADO\bin\Release\EjerciciosADO.exe.config
+C:\Users\Desi\Desktop\MASTER\2011-2012\Clase 2\ProyectoMASTER\EjerciciosADO\obj\Release\EjerciciosADO.exe
+C:\Users\Desi\Desktop\MASTER\2011-2012\Clase 2\ProyectoMASTER\EjerciciosADO\obj\Release\EjerciciosADO.pdb

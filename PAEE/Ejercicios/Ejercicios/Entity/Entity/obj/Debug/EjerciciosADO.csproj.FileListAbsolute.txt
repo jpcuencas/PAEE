@@ -1,0 +1,52 @@
+C:\Users\Desi\Documents\Visual Studio 2008\Projects\ProyectoMASTER\EjerciciosADO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Desi\Documents\Visual Studio 2008\Projects\ProyectoMASTER\EjerciciosADO\obj\Debug\EjerciciosADO.FAdo.resources
+C:\Users\Desi\Documents\Visual Studio 2008\Projects\ProyectoMASTER\EjerciciosADO\obj\Debug\EjerciciosADO.Properties.Resources.resources
+C:\Users\Desi\Documents\Visual Studio 2008\Projects\ProyectoMASTER\EjerciciosADO\obj\Debug\EjerciciosADO.csproj.GenerateResource.Cache
+C:\Users\Desi\Documents\Visual Studio 2008\Projects\ProyectoMASTER\EjerciciosADO\bin\Debug\EjerciciosADO.exe
+C:\Users\Desi\Documents\Visual Studio 2008\Projects\ProyectoMASTER\EjerciciosADO\bin\Debug\EjerciciosADO.pdb
+C:\Users\Desi\Documents\Visual Studio 2008\Projects\ProyectoMASTER\EjerciciosADO\obj\Debug\EjerciciosADO.exe
+C:\Users\Desi\Documents\Visual Studio 2008\Projects\ProyectoMASTER\EjerciciosADO\obj\Debug\EjerciciosADO.pdb
+C:\Users\Desi\Documents\Visual Studio 2008\Projects\ProyectoMASTER\EjerciciosADO\obj\Debug\EjerciciosADO.FTableAdapter.resources
+C:\Users\Desi\Documents\Visual Studio 2008\Projects\ProyectoMASTER\EjerciciosADO\bin\Debug\EjerciciosADO.exe.config
+C:\Users\Desi\Documents\Visual Studio 2008\Projects\ProyectoMASTER\EjerciciosADO\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Desi\Documents\Visual Studio 2008\Projects\ProyectoMASTER\EjerciciosADO\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Desi\Documents\Visual Studio 2008\Projects\ProyectoMASTER\EjerciciosADO\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Desi\Documents\Visual Studio 2008\Projects\ProyectoMASTER\EjerciciosADO\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\Desi\Documents\Visual Studio 2008\Projects\ProyectoMASTER\EjerciciosADO\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\Desi\Documents\Visual Studio 2008\Projects\ProyectoMASTER\EjerciciosADO\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Desi\Desktop\MASTER\ADO 17102008\ALUMNOS\ProyectoMASTER\EjerciciosADO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Desi\Desktop\MASTER\ADO 17102008\ALUMNOS\ProyectoMASTER\EjerciciosADO\obj\Debug\EjerciciosADO.FAdo.resources
+C:\Users\Desi\Desktop\MASTER\ADO 17102008\ALUMNOS\ProyectoMASTER\EjerciciosADO\obj\Debug\EjerciciosADO.FTableAdapter.resources
+C:\Users\Desi\Desktop\MASTER\ADO 17102008\ALUMNOS\ProyectoMASTER\EjerciciosADO\obj\Debug\EjerciciosADO.Properties.Resources.resources
+C:\Users\Desi\Desktop\MASTER\ADO 17102008\ALUMNOS\ProyectoMASTER\EjerciciosADO\obj\Debug\EjerciciosADO.csproj.GenerateResource.Cache
+C:\Users\Desi\Desktop\MASTER\ADO 17102008\ALUMNOS\ProyectoMASTER\EjerciciosADO\obj\Debug\EjerciciosADO.pdb
+C:\Users\Desi\Desktop\MASTER\ADO 17102008\ALUMNOS\ProyectoMASTER\EjerciciosADO\bin\Debug\EjerciciosADO.exe.config
+C:\Users\Desi\Desktop\MASTER\ADO 17102008\ALUMNOS\ProyectoMASTER\EjerciciosADO\bin\Debug\EjerciciosADO.exe
+C:\Users\Desi\Desktop\MASTER\ADO 17102008\ALUMNOS\ProyectoMASTER\EjerciciosADO\bin\Debug\EjerciciosADO.pdb
+C:\Users\Desi\Desktop\MASTER\ADO 17102008\ALUMNOS\ProyectoMASTER\EjerciciosADO\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Desi\Desktop\MASTER\ADO 17102008\ALUMNOS\ProyectoMASTER\EjerciciosADO\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Desi\Desktop\MASTER\ADO 17102008\ALUMNOS\ProyectoMASTER\EjerciciosADO\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Desi\Desktop\MASTER\ADO 17102008\ALUMNOS\ProyectoMASTER\EjerciciosADO\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\Desi\Desktop\MASTER\ADO 17102008\ALUMNOS\ProyectoMASTER\EjerciciosADO\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\Desi\Desktop\MASTER\ADO 17102008\ALUMNOS\ProyectoMASTER\EjerciciosADO\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Desi\Desktop\MASTER\ADO 17102008\ALUMNOS\ProyectoMASTER\EjerciciosADO\obj\Debug\EjerciciosADO.exe
+C:\Users\Desi\Desktop\MASTER\ADO 17102008\ALUMNOS\ProyectoMASTER\EjerciciosADO\obj\Debug\EjerciciosADO.Form1.resources
+C:\Users\Desi\Desktop\MASTER\2009-2010\1. Desarrollo avanzado .NET\Clase 2\ProyectoMASTER\EjerciciosADO\bin\Debug\EjerciciosADO.exe.config
+C:\Users\Desi\Desktop\MASTER\2009-2010\1. Desarrollo avanzado .NET\Clase 2\ProyectoMASTER\EjerciciosADO\obj\Debug\EjerciciosADO.exe
+C:\Users\Desi\Desktop\MASTER\2009-2010\1. Desarrollo avanzado .NET\Clase 2\ProyectoMASTER\EjerciciosADO\obj\Debug\EjerciciosADO.pdb
+C:\Users\Desi\Desktop\MASTER\2009-2010\1. Desarrollo avanzado .NET\Clase 2\ProyectoMASTER\EjerciciosADO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Desi\Desktop\MASTER\2009-2010\1. Desarrollo avanzado .NET\Clase 2\ProyectoMASTER\EjerciciosADO\obj\Debug\EjerciciosADO.FAdo.resources
+C:\Users\Desi\Desktop\MASTER\2009-2010\1. Desarrollo avanzado .NET\Clase 2\ProyectoMASTER\EjerciciosADO\obj\Debug\EjerciciosADO.Properties.Resources.resources
+C:\Users\Desi\Desktop\MASTER\2009-2010\1. Desarrollo avanzado .NET\Clase 2\ProyectoMASTER\EjerciciosADO\obj\Debug\EjerciciosADO.csproj.GenerateResource.Cache
+C:\Users\Desi\Desktop\MASTER\2009-2010\1. Desarrollo avanzado .NET\Clase 2\ProyectoMASTER\EjerciciosADO\bin\Debug\EjerciciosADO.exe
+C:\Users\Desi\Desktop\MASTER\2009-2010\1. Desarrollo avanzado .NET\Clase 2\ProyectoMASTER\EjerciciosADO\bin\Debug\EjerciciosADO.pdb
+C:\Users\Desi\Desktop\MASTER\2009-2010\1. Desarrollo avanzado .NET\Clase 2\ProyectoMASTER\EjerciciosADO\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Desi\Desktop\MASTER\2009-2010\1. Desarrollo avanzado .NET\Clase 2\ProyectoMASTER\EjerciciosADO\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\Desi\Desktop\MASTER\2009-2010\1. Desarrollo avanzado .NET\Clase 2\ProyectoMASTER\EjerciciosADO\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\Desi\Desktop\MASTER\2009-2010\1. Desarrollo avanzado .NET\Clase 2\ProyectoMASTER\EjerciciosADO\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+F:\MASTER\2010-2011\Programación avanzada en entornos de escritorio\Clase 2\ProyectoMASTER\EjerciciosADO\bin\Debug\EjerciciosADO.exe.config
+F:\MASTER\2010-2011\Programación avanzada en entornos de escritorio\Clase 2\ProyectoMASTER\EjerciciosADO\obj\Debug\EjerciciosADO.exe
+F:\MASTER\2010-2011\Programación avanzada en entornos de escritorio\Clase 2\ProyectoMASTER\EjerciciosADO\obj\Debug\EjerciciosADO.pdb
+C:\Users\Desi\Desktop\MASTER\2011-2012\Clase 1\Ejercicios\EL\EjerciciosADO\bin\Debug\EjerciciosADO.exe.config
+C:\Users\Desi\Desktop\MASTER\2011-2012\Clase 1\Ejercicios\EL\EjerciciosADO\obj\Debug\EjerciciosADO.exe
+C:\Users\Desi\Desktop\MASTER\2011-2012\Clase 1\Ejercicios\EL\EjerciciosADO\obj\Debug\EjerciciosADO.pdb

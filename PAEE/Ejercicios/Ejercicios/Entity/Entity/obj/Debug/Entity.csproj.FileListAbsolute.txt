@@ -1,0 +1,35 @@
+C:\Users\Desi\Desktop\2013-2014\1. PAEE\Clase 2\Ejercicios\Entity\Entity\bin\Debug\Entity.exe.config
+C:\Users\Desi\Desktop\2013-2014\1. PAEE\Clase 2\Ejercicios\Entity\Entity\bin\Debug\Entity.exe
+C:\Users\Desi\Desktop\2013-2014\1. PAEE\Clase 2\Ejercicios\Entity\Entity\bin\Debug\Entity.pdb
+C:\Users\Desi\Desktop\2013-2014\1. PAEE\Clase 2\Ejercicios\Entity\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\Desi\Desktop\2013-2014\1. PAEE\Clase 2\Ejercicios\Entity\Entity\obj\Debug\Entity.Properties.Resources.resources
+C:\Users\Desi\Desktop\2013-2014\1. PAEE\Clase 2\Ejercicios\Entity\Entity\obj\Debug\Entity.csproj.GenerateResource.Cache
+C:\Users\Desi\Desktop\2013-2014\1. PAEE\Clase 2\Ejercicios\Entity\Entity\obj\Debug\Entity.exe
+C:\Users\Desi\Desktop\2013-2014\1. PAEE\Clase 2\Ejercicios\Entity\Entity\obj\Debug\Entity.pdb
+C:\Users\Desi\Desktop\2013-2014\1. PAEE\Clase 2\Ejercicios\Entity\Entity\obj\Debug\Entity.FEntity.resources
+H:\VS 2010\Ejercicios\Ejercicios\Entity\Entity\bin\Debug\Entity.exe.config
+H:\VS 2010\Ejercicios\Ejercicios\Entity\Entity\bin\Debug\Entity.exe
+H:\VS 2010\Ejercicios\Ejercicios\Entity\Entity\bin\Debug\Entity.pdb
+H:\VS 2010\Ejercicios\Ejercicios\Entity\Entity\obj\Debug\ResolveAssemblyReference.cache
+H:\VS 2010\Ejercicios\Ejercicios\Entity\Entity\obj\Debug\Entity.FEntity.resources
+H:\VS 2010\Ejercicios\Ejercicios\Entity\Entity\obj\Debug\Entity.Properties.Resources.resources
+H:\VS 2010\Ejercicios\Ejercicios\Entity\Entity\obj\Debug\ResGen.read.1.tlog
+H:\VS 2010\Ejercicios\Ejercicios\Entity\Entity\obj\Debug\ResGen.write.1.tlog
+H:\VS 2010\Ejercicios\Ejercicios\Entity\Entity\obj\Debug\Entity.exe
+H:\VS 2010\Ejercicios\Ejercicios\Entity\Entity\obj\Debug\Entity.pdb
+E:\VS 2010\Ejercicios\Ejercicios\Entity\Entity\bin\Debug\Entity.exe.config
+E:\VS 2010\Ejercicios\Ejercicios\Entity\Entity\obj\Debug\Entity.exe
+E:\VS 2010\Ejercicios\Ejercicios\Entity\Entity\obj\Debug\Entity.pdb
+E:\VS 2010\Ejercicios\Ejercicios\Entity\Entity\bin\Debug\Entity.exe
+E:\VS 2010\Ejercicios\Ejercicios\Entity\Entity\bin\Debug\Entity.pdb
+E:\VS 2010\Ejercicios\Ejercicios\Entity\Entity\obj\Debug\ResolveAssemblyReference.cache
+E:\VS 2010\Ejercicios\Ejercicios\Entity\Entity\obj\Debug\Entity.FEntity.resources
+E:\VS 2010\Ejercicios\Ejercicios\Entity\Entity\obj\Debug\Entity.Properties.Resources.resources
+E:\VS 2010\Ejercicios\Ejercicios\Entity\Entity\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\VS 2010\Ejercicios\Ejercicios\Entity\Entity\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\VS 2010\Ejercicios\Ejercicios\Entity\Entity\obj\Debug\ResGen.read.1.tlog
+E:\VS 2010\Ejercicios\Ejercicios\Entity\Entity\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\VS 2010\Ejercicios\Ejercicios\Entity\Entity\obj\Debug\ResGen.write.1.tlog
+H:\VS 2010\PAEE\Ejercicios\Ejercicios\Entity\Entity\bin\Debug\Entity.exe.config
+H:\VS 2010\PAEE\Ejercicios\Ejercicios\Entity\Entity\obj\Debug\Entity.exe
+H:\VS 2010\PAEE\Ejercicios\Ejercicios\Entity\Entity\obj\Debug\Entity.pdb

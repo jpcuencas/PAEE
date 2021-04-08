@@ -1,0 +1,15 @@
+c:\users\desi\documents\visual studio 2010\Projects\EjemploTransacciones\EjemploTransacciones\bin\Debug\EjemploTransacciones.exe
+c:\users\desi\documents\visual studio 2010\Projects\EjemploTransacciones\EjemploTransacciones\bin\Debug\EjemploTransacciones.pdb
+c:\users\desi\documents\visual studio 2010\Projects\EjemploTransacciones\EjemploTransacciones\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\desi\documents\visual studio 2010\Projects\EjemploTransacciones\EjemploTransacciones\obj\x86\Debug\EjemploTransacciones.Form1.resources
+c:\users\desi\documents\visual studio 2010\Projects\EjemploTransacciones\EjemploTransacciones\obj\x86\Debug\EjemploTransacciones.Properties.Resources.resources
+c:\users\desi\documents\visual studio 2010\Projects\EjemploTransacciones\EjemploTransacciones\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\desi\documents\visual studio 2010\Projects\EjemploTransacciones\EjemploTransacciones\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\desi\documents\visual studio 2010\Projects\EjemploTransacciones\EjemploTransacciones\obj\x86\Debug\EjemploTransacciones.exe
+c:\users\desi\documents\visual studio 2010\Projects\EjemploTransacciones\EjemploTransacciones\obj\x86\Debug\EjemploTransacciones.pdb
+E:\VS 2010\Ejercicios\ejemplos\EjemploTransacciones\EjemploTransacciones\obj\x86\Debug\EjemploTransacciones.exe
+E:\VS 2010\Ejercicios\ejemplos\EjemploTransacciones\EjemploTransacciones\obj\x86\Debug\EjemploTransacciones.pdb
+E:\VS 2010\Ejercicios\Ejemplos\ADOejemplos\EjemploTransacciones\EjemploTransacciones\obj\x86\Debug\EjemploTransacciones.exe
+E:\VS 2010\Ejercicios\Ejemplos\ADOejemplos\EjemploTransacciones\EjemploTransacciones\obj\x86\Debug\EjemploTransacciones.pdb
+F:\VS 2010\PAEE\Ejercicios\Ejemplos\ADOejemplos\EjemploTransacciones\EjemploTransacciones\obj\x86\Debug\EjemploTransacciones.exe
+F:\VS 2010\PAEE\Ejercicios\Ejemplos\ADOejemplos\EjemploTransacciones\EjemploTransacciones\obj\x86\Debug\EjemploTransacciones.pdb

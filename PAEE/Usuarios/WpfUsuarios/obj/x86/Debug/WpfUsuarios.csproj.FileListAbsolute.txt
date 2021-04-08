@@ -1,0 +1,117 @@
+H:\VS 2010\PAEE\Usuarios\WpfUsuarios\bin\Debug\MSDNVideo.mdf
+H:\VS 2010\PAEE\Usuarios\WpfUsuarios\bin\Debug\MSDNVideo_log.ldf
+H:\VS 2010\PAEE\Usuarios\WpfUsuarios\bin\Debug\WpfUsuarios.exe
+H:\VS 2010\PAEE\Usuarios\WpfUsuarios\bin\Debug\WpfUsuarios.pdb
+H:\VS 2010\PAEE\Usuarios\WpfUsuarios\bin\Debug\DTO.dll
+H:\VS 2010\PAEE\Usuarios\WpfUsuarios\bin\Debug\Iesi.Collections.dll
+H:\VS 2010\PAEE\Usuarios\WpfUsuarios\bin\Debug\DTO.pdb
+H:\VS 2010\PAEE\Usuarios\WpfUsuarios\bin\Debug\Iesi.Collections.xml
+H:\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\MainWindow.baml
+H:\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\MainWindow.g.cs
+H:\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\App.g.cs
+H:\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\WpfUsuarios_MarkupCompile.cache
+H:\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\WpfUsuarios.g.resources
+H:\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\WpfUsuarios.Properties.Resources.resources
+H:\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\WpfUsuarios.exe
+H:\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\WpfUsuarios.pdb
+F:\VS 2010\PAEE\Usuarios\WpfUsuarios\bin\Debug\MSDNVideo.mdf
+F:\VS 2010\PAEE\Usuarios\WpfUsuarios\bin\Debug\MSDNVideo_log.ldf
+F:\VS 2010\PAEE\Usuarios\WpfUsuarios\bin\Debug\WpfUsuarios.exe
+F:\VS 2010\PAEE\Usuarios\WpfUsuarios\bin\Debug\WpfUsuarios.pdb
+F:\VS 2010\PAEE\Usuarios\WpfUsuarios\bin\Debug\DTO.dll
+F:\VS 2010\PAEE\Usuarios\WpfUsuarios\bin\Debug\Iesi.Collections.dll
+F:\VS 2010\PAEE\Usuarios\WpfUsuarios\bin\Debug\DTO.pdb
+F:\VS 2010\PAEE\Usuarios\WpfUsuarios\bin\Debug\Iesi.Collections.xml
+F:\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\WpfUsuarios.csprojResolveAssemblyReference.cache
+F:\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\MainWindow.baml
+F:\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\MainWindow.g.cs
+F:\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\App.g.cs
+F:\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\WpfUsuarios_MarkupCompile.cache
+F:\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\WpfUsuarios.g.resources
+F:\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\WpfUsuarios.Properties.Resources.resources
+F:\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\WpfUsuarios.csproj.GenerateResource.Cache
+F:\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\WpfUsuarios.exe
+F:\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\WpfUsuarios.pdb
+E:\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\MainWindow.baml
+E:\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\MainWindow.g.cs
+E:\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\App.g.cs
+E:\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\WpfUsuarios_MarkupCompile.cache
+E:\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\WpfUsuarios.g.resources
+E:\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\WpfUsuarios.Properties.Resources.resources
+E:\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\WpfUsuarios.pdb
+D:\Dropbox\Master Applicaciones Web\VS 2010\PAEE\Usuarios\WpfUsuarios\bin\Debug\MSDNVideo.mdf
+D:\Dropbox\Master Applicaciones Web\VS 2010\PAEE\Usuarios\WpfUsuarios\bin\Debug\MSDNVideo_log.ldf
+D:\Dropbox\Master Applicaciones Web\VS 2010\PAEE\Usuarios\WpfUsuarios\bin\Debug\WpfUsuarios.exe
+D:\Dropbox\Master Applicaciones Web\VS 2010\PAEE\Usuarios\WpfUsuarios\bin\Debug\WpfUsuarios.pdb
+D:\Dropbox\Master Applicaciones Web\VS 2010\PAEE\Usuarios\WpfUsuarios\bin\Debug\DTO.dll
+D:\Dropbox\Master Applicaciones Web\VS 2010\PAEE\Usuarios\WpfUsuarios\bin\Debug\Iesi.Collections.dll
+D:\Dropbox\Master Applicaciones Web\VS 2010\PAEE\Usuarios\WpfUsuarios\bin\Debug\DTO.pdb
+D:\Dropbox\Master Applicaciones Web\VS 2010\PAEE\Usuarios\WpfUsuarios\bin\Debug\Iesi.Collections.xml
+D:\Dropbox\Master Applicaciones Web\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\WpfUsuarios.csprojResolveAssemblyReference.cache
+D:\Dropbox\Master Applicaciones Web\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\MainWindow.baml
+D:\Dropbox\Master Applicaciones Web\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\MainWindow.g.cs
+D:\Dropbox\Master Applicaciones Web\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\App.g.cs
+D:\Dropbox\Master Applicaciones Web\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\WpfUsuarios_MarkupCompile.cache
+D:\Dropbox\Master Applicaciones Web\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\WpfUsuarios.g.resources
+D:\Dropbox\Master Applicaciones Web\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\WpfUsuarios.Properties.Resources.resources
+D:\Dropbox\Master Applicaciones Web\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\WpfUsuarios.csproj.GenerateResource.Cache
+D:\Dropbox\Master Applicaciones Web\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\WpfUsuarios.exe
+D:\Dropbox\Master Applicaciones Web\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\WpfUsuarios.pdb
+J:\VS 2010\PAEE\Usuarios\WpfUsuarios\bin\Debug\MSDNVideo.mdf
+J:\VS 2010\PAEE\Usuarios\WpfUsuarios\bin\Debug\MSDNVideo_log.ldf
+J:\VS 2010\PAEE\Usuarios\WpfUsuarios\bin\Debug\WpfUsuarios.exe
+J:\VS 2010\PAEE\Usuarios\WpfUsuarios\bin\Debug\WpfUsuarios.pdb
+J:\VS 2010\PAEE\Usuarios\WpfUsuarios\bin\Debug\DTO.dll
+J:\VS 2010\PAEE\Usuarios\WpfUsuarios\bin\Debug\Iesi.Collections.dll
+J:\VS 2010\PAEE\Usuarios\WpfUsuarios\bin\Debug\DTO.pdb
+J:\VS 2010\PAEE\Usuarios\WpfUsuarios\bin\Debug\Iesi.Collections.xml
+J:\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\MainWindow.baml
+J:\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\MainWindow.g.cs
+J:\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\App.g.cs
+J:\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\WpfUsuarios_MarkupCompile.cache
+J:\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\WpfUsuarios.g.resources
+J:\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\WpfUsuarios.Properties.Resources.resources
+J:\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\WpfUsuarios.exe
+J:\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\WpfUsuarios.pdb
+I:\VS 2010\PAEE\Usuarios\WpfUsuarios\bin\Debug\MSDNVideo.mdf
+I:\VS 2010\PAEE\Usuarios\WpfUsuarios\bin\Debug\MSDNVideo_log.ldf
+I:\VS 2010\PAEE\Usuarios\WpfUsuarios\bin\Debug\WpfUsuarios.exe
+I:\VS 2010\PAEE\Usuarios\WpfUsuarios\bin\Debug\WpfUsuarios.pdb
+I:\VS 2010\PAEE\Usuarios\WpfUsuarios\bin\Debug\DTO.dll
+I:\VS 2010\PAEE\Usuarios\WpfUsuarios\bin\Debug\Iesi.Collections.dll
+I:\VS 2010\PAEE\Usuarios\WpfUsuarios\bin\Debug\DTO.pdb
+I:\VS 2010\PAEE\Usuarios\WpfUsuarios\bin\Debug\Iesi.Collections.xml
+I:\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\WpfUsuarios.csprojResolveAssemblyReference.cache
+I:\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\MainWindow.baml
+I:\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\MainWindow.g.cs
+I:\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\App.g.cs
+I:\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\WpfUsuarios_MarkupCompile.cache
+I:\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\WpfUsuarios.g.resources
+I:\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\WpfUsuarios.Properties.Resources.resources
+I:\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\WpfUsuarios.csproj.GenerateResource.Cache
+I:\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\WpfUsuarios.exe
+I:\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\WpfUsuarios.pdb
+H:\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\WpfUsuarios.csprojResolveAssemblyReference.cache
+H:\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\WpfUsuarios.csproj.GenerateResource.Cache
+D:\Dropbox\Master Applicaciones Web\Master\PAEE - Programación Avanzada en Entornos de Escritorio\VS 2010\PAEE\Usuarios\WpfUsuarios\bin\Debug\WpfUsuarios.exe
+D:\Dropbox\Master Applicaciones Web\Master\PAEE - Programación Avanzada en Entornos de Escritorio\VS 2010\PAEE\Usuarios\WpfUsuarios\bin\Debug\WpfUsuarios.pdb
+D:\Dropbox\Master Applicaciones Web\Master\PAEE - Programación Avanzada en Entornos de Escritorio\VS 2010\PAEE\Usuarios\WpfUsuarios\bin\Debug\DTO.dll
+D:\Dropbox\Master Applicaciones Web\Master\PAEE - Programación Avanzada en Entornos de Escritorio\VS 2010\PAEE\Usuarios\WpfUsuarios\bin\Debug\Iesi.Collections.dll
+D:\Dropbox\Master Applicaciones Web\Master\PAEE - Programación Avanzada en Entornos de Escritorio\VS 2010\PAEE\Usuarios\WpfUsuarios\bin\Debug\DTO.pdb
+D:\Dropbox\Master Applicaciones Web\Master\PAEE - Programación Avanzada en Entornos de Escritorio\VS 2010\PAEE\Usuarios\WpfUsuarios\bin\Debug\Iesi.Collections.xml
+D:\Dropbox\Master Applicaciones Web\Master\PAEE - Programación Avanzada en Entornos de Escritorio\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\WpfUsuarios.csprojResolveAssemblyReference.cache
+D:\Dropbox\Master Applicaciones Web\Master\PAEE - Programación Avanzada en Entornos de Escritorio\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\MainWindow.baml
+D:\Dropbox\Master Applicaciones Web\Master\PAEE - Programación Avanzada en Entornos de Escritorio\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\MainWindow.g.cs
+D:\Dropbox\Master Applicaciones Web\Master\PAEE - Programación Avanzada en Entornos de Escritorio\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\App.g.cs
+D:\Dropbox\Master Applicaciones Web\Master\PAEE - Programación Avanzada en Entornos de Escritorio\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\WpfUsuarios_MarkupCompile.cache
+D:\Dropbox\Master Applicaciones Web\Master\PAEE - Programación Avanzada en Entornos de Escritorio\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\WpfUsuarios.g.resources
+D:\Dropbox\Master Applicaciones Web\Master\PAEE - Programación Avanzada en Entornos de Escritorio\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\WpfUsuarios.Properties.Resources.resources
+D:\Dropbox\Master Applicaciones Web\Master\PAEE - Programación Avanzada en Entornos de Escritorio\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\WpfUsuarios.csproj.GenerateResource.Cache
+D:\Dropbox\Master Applicaciones Web\Master\PAEE - Programación Avanzada en Entornos de Escritorio\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\WpfUsuarios.exe
+D:\Dropbox\Master Applicaciones Web\Master\PAEE - Programación Avanzada en Entornos de Escritorio\VS 2010\PAEE\Usuarios\WpfUsuarios\obj\x86\Debug\WpfUsuarios.pdb

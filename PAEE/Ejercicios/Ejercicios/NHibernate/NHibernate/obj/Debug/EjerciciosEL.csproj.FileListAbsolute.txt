@@ -1,0 +1,6 @@
+C:\Users\Desi\Desktop\MASTER\2011-2012\Clase 1\Ejercicios\EL\EjerciciosEL\bin\Debug\EjerciciosADO.exe.config
+C:\Users\Desi\Desktop\MASTER\2011-2012\Clase 1\Ejercicios\EL\EjerciciosEL\obj\Debug\EjerciciosADO.exe
+C:\Users\Desi\Desktop\MASTER\2011-2012\Clase 1\Ejercicios\EL\EjerciciosEL\obj\Debug\EjerciciosADO.pdb
+C:\Users\Desi\Desktop\2013-2014\1. PAEE\Clase 1\Ejercicios\EL\EjerciciosEL\bin\Debug\EjerciciosADO.exe.config
+C:\Users\Desi\Desktop\2013-2014\1. PAEE\Clase 1\Ejercicios\EL\EjerciciosEL\obj\Debug\EjerciciosADO.exe
+C:\Users\Desi\Desktop\2013-2014\1. PAEE\Clase 1\Ejercicios\EL\EjerciciosEL\obj\Debug\EjerciciosADO.pdb

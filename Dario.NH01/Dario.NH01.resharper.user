@@ -1,0 +1,118 @@
+<Configuration>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IList&lt;Dario.NH01.Entidades.LineaFactura&gt;">
+      <Item value="Add" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Dario.NH01.Repositorio.SessionFactoryHelper">
+      <Item value="Instance" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Query.Where.Factura">
+      <Item value="Id" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System">
+      <Item value="Collections" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Dario.NH01.Repositorio">
+      <Item value="IRepositorio" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Today" priority="0" />
+      <Item value="Now" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Dario">
+      <Item value="NH.Repositorio" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Query.Where">
+      <Item value="Factura" priority="1" />
+      <Item value="Query_Factura" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine" priority="4" />
+      <Item value="ReadLine" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Dario.NH01.Entidades.Producto">
+      <Item value="Id" priority="0" />
+      <Item value="Nombre" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:int">
+      <Item value="GetHashCode" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Dario.NH01">
+      <Item value="Repositorio" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@">
+      <Item value="FlushSession" priority="2" />
+      <Item value="Transaction" priority="0" />
+      <Item value="OpenSession" priority="2" />
+      <Item value="CommitTransaction" priority="0" />
+      <Item value="Save" priority="1" />
+      <Item value="Lineas" priority="1" />
+      <Item value="Session" priority="2" />
+      <Item value="Delete" priority="0" />
+      <Item value="SaveOrUpdateObject" priority="0" />
+      <Item value="CreateCriteria" priority="2" />
+      <Item value="Close" priority="0" />
+      <Item value="CloseSession" priority="0" />
+      <Item value="GetAll" priority="0" />
+      <Item value="BuildSessionFactory" priority="0" />
+      <Item value="BeginTransaction" priority="1" />
+      <Item value="CreateQuery" priority="0" />
+      <Item value="SaveObject" priority="1" />
+      <Item value="Configure" priority="0" />
+      <Item value="GetExecutableCriteria" priority="0" />
+      <Item value="Flush" priority="0" />
+      <Item value="Fecha" priority="1" />
+      <Item value="Id" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Dario.NH01.Entidades.LineaFactura">
+      <Item value="Id" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Dario.NH01.Repositorio.SessionFactoryHelper.Instance">
+      <Item value="GetSession" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Dario.NH01.Entidades.Factura">
+      <Item value="Id" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NHibernate.Cfg.Configuration">
+      <Item value="Configure" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <EditorManager>
+    <RecentFiles>
+      <File id="C04118DA-6E38-4CA1-8452-13ED7C56D340/d:Entidades/f:Factura.cs" caret="104" scrollPosition="0|0" />
+      <File id="C04118DA-6E38-4CA1-8452-13ED7C56D340/d:Entidades/f:Producto.cs" caret="131" scrollPosition="0|0" />
+      <File id="C04118DA-6E38-4CA1-8452-13ED7C56D340/d:Entidades/f:LineaFactura.cs" caret="0" scrollPosition="0|0" />
+      <File id="C04118DA-6E38-4CA1-8452-13ED7C56D340/f:hibernate.cfg.xml" caret="0" scrollPosition="0|0" />
+      <File id="C04118DA-6E38-4CA1-8452-13ED7C56D340/d:Mappings/f:Producto.hbm.cs" caret="828" scrollPosition="0|18" />
+      <File id="C04118DA-6E38-4CA1-8452-13ED7C56D340/d:Mappings/f:QueryBuilder.cs" caret="450" scrollPosition="0|530" />
+      <File id="C04118DA-6E38-4CA1-8452-13ED7C56D340/d:Mappings/f:LineaFactura.hbm.xml" caret="562" scrollPosition="0|0" />
+      <File id="C04118DA-6E38-4CA1-8452-13ED7C56D340/f:Program.cs" caret="1844" scrollPosition="0|51" />
+      <File id="C04118DA-6E38-4CA1-8452-13ED7C56D340/d:Mappings/f:Factura.hbm.xml" caret="505" scrollPosition="0|0" />
+      <File id="C04118DA-6E38-4CA1-8452-13ED7C56D340/d:Mappings/f:LineaFactura.hbm.cs" caret="1388" scrollPosition="0|27" />
+      <File id="C04118DA-6E38-4CA1-8452-13ED7C56D340/d:Mappings/f:Factura.hbm.cs" caret="2579" scrollPosition="0|63" />
+      <File id="C04118DA-6E38-4CA1-8452-13ED7C56D340/d:Mappings/f:Producto.hbm.xml" caret="401" scrollPosition="0|0" />
+    </RecentFiles>
+  </EditorManager>
+  <FileStructureView>
+    <AutoScrollToSource>False</AutoScrollToSource>
+    <TrackCaretLocation>False</TrackCaretLocation>
+  </FileStructureView>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <ReFormatCode>
+    <ReorderMembers>False</ReorderMembers>
+    <OptimizeUsings>False</OptimizeUsings>
+    <RemoveRedundantThis>False</RemoveRedundantThis>
+    <ShortenReferences>False</ShortenReferences>
+  </ReFormatCode>
+  <SharedSolutionDisabledTemplatesManager>
+    <DisabledTemplates />
+  </SharedSolutionDisabledTemplatesManager>
+  <UserSolutionDisabledTemplatesManager>
+    <DisabledTemplates />
+  </UserSolutionDisabledTemplatesManager>
+</Configuration>

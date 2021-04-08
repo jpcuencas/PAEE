@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="urn:schemas-microsoft-com:windows:storage:mapping:CS">
+  <EntityContainerMapping StorageEntityContainer="MSDNVideoDBModelStoreContainer" CdmEntityContainer="MSDNVideoDBEntities">
+    <EntitySetMapping Name="Actores">
+      <EntityTypeMapping TypeName="MSDNVideoDBModel.Actores">
+        <MappingFragment StoreEntitySet="Actores">
+          <ScalarProperty Name="UrlPersonal" ColumnName="UrlPersonal" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="ActorID" ColumnName="ActorID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

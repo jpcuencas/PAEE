@@ -1,0 +1,13 @@
+c:\users\desi\documents\visual studio 2010\Projects\ConsultaBD\ConsultaBD\bin\Debug\ConsultaBD.exe
+c:\users\desi\documents\visual studio 2010\Projects\ConsultaBD\ConsultaBD\bin\Debug\ConsultaBD.pdb
+c:\users\desi\documents\visual studio 2010\Projects\ConsultaBD\ConsultaBD\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\desi\documents\visual studio 2010\Projects\ConsultaBD\ConsultaBD\obj\x86\Debug\ConsultaBD.exe
+c:\users\desi\documents\visual studio 2010\Projects\ConsultaBD\ConsultaBD\obj\x86\Debug\ConsultaBD.pdb
+E:\1. PAEE\Clase 1\ConsultaBD\ConsultaBD\obj\x86\Debug\ConsultaBD.exe
+E:\1. PAEE\Clase 1\ConsultaBD\ConsultaBD\obj\x86\Debug\ConsultaBD.pdb
+D:\Documents\Visual Studio 2010\PAEE\ejemplos\ConsultaBD\ConsultaBD\obj\x86\Debug\ConsultaBD.exe
+D:\Documents\Visual Studio 2010\PAEE\ejemplos\ConsultaBD\ConsultaBD\obj\x86\Debug\ConsultaBD.pdb
+E:\VS 2010\Ejercicios\ejemplos\ConsultaBD\ConsultaBD\obj\x86\Debug\ConsultaBD.exe
+E:\VS 2010\Ejercicios\ejemplos\ConsultaBD\ConsultaBD\obj\x86\Debug\ConsultaBD.pdb
+F:\VS 2010\PAEE\Ejercicios\Ejemplos\ADOejemplos\ConsultaBD\ConsultaBD\obj\x86\Debug\ConsultaBD.exe
+F:\VS 2010\PAEE\Ejercicios\Ejemplos\ADOejemplos\ConsultaBD\ConsultaBD\obj\x86\Debug\ConsultaBD.pdb

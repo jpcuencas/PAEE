@@ -1,0 +1,13 @@
+H:\VS 2010\Ejercicios\Ejercicios\CalculadoraWPF\CalculadoraWPF\bin\Debug\CalculadoraWPF.exe
+H:\VS 2010\Ejercicios\Ejercicios\CalculadoraWPF\CalculadoraWPF\bin\Debug\CalculadoraWPF.pdb
+H:\VS 2010\Ejercicios\Ejercicios\CalculadoraWPF\CalculadoraWPF\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\VS 2010\Ejercicios\Ejercicios\CalculadoraWPF\CalculadoraWPF\obj\x86\Debug\MainWindow.baml
+H:\VS 2010\Ejercicios\Ejercicios\CalculadoraWPF\CalculadoraWPF\obj\x86\Debug\MainWindow.g.cs
+H:\VS 2010\Ejercicios\Ejercicios\CalculadoraWPF\CalculadoraWPF\obj\x86\Debug\App.g.cs
+H:\VS 2010\Ejercicios\Ejercicios\CalculadoraWPF\CalculadoraWPF\obj\x86\Debug\CalculadoraWPF_MarkupCompile.cache
+H:\VS 2010\Ejercicios\Ejercicios\CalculadoraWPF\CalculadoraWPF\obj\x86\Debug\CalculadoraWPF.g.resources
+H:\VS 2010\Ejercicios\Ejercicios\CalculadoraWPF\CalculadoraWPF\obj\x86\Debug\CalculadoraWPF.Properties.Resources.resources
+H:\VS 2010\Ejercicios\Ejercicios\CalculadoraWPF\CalculadoraWPF\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\VS 2010\Ejercicios\Ejercicios\CalculadoraWPF\CalculadoraWPF\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\VS 2010\Ejercicios\Ejercicios\CalculadoraWPF\CalculadoraWPF\obj\x86\Debug\CalculadoraWPF.exe
+H:\VS 2010\Ejercicios\Ejercicios\CalculadoraWPF\CalculadoraWPF\obj\x86\Debug\CalculadoraWPF.pdb

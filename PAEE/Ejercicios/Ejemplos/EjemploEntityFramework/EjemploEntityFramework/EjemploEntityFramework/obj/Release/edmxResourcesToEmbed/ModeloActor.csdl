@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MSDNVideoDBModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2006/04/edm">
+  <EntityContainer Name="MSDNVideoDBEntities">
+    <EntitySet Name="Actores" EntityType="MSDNVideoDBModel.Actores" />
+  </EntityContainer>
+  <EntityType Name="Actores">
+    <Key>
+      <PropertyRef Name="ActorID" />
+    </Key>
+    <Property Type="Int32" Name="ActorID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="Nombre" Nullable="false" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="UrlPersonal" MaxLength="150" FixedLength="false" Unicode="true" />
+  </EntityType>
+</Schema>

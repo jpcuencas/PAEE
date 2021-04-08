@@ -1,0 +1,62 @@
+C:\Users\Desi\Documents\Visual Studio 2008\Projects\EjemploNHibernate\EjemploNHibernate\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Desi\Documents\Visual Studio 2008\Projects\EjemploNHibernate\EjemploNHibernate\obj\Debug\EjemploNHibernate.Properties.Resources.resources
+C:\Users\Desi\Documents\Visual Studio 2008\Projects\EjemploNHibernate\EjemploNHibernate\obj\Debug\EjemploNHibernate.csproj.GenerateResource.Cache
+C:\Users\Desi\Documents\Visual Studio 2008\Projects\EjemploNHibernate\EjemploNHibernate\bin\Debug\EjemploNHibernate.exe
+C:\Users\Desi\Documents\Visual Studio 2008\Projects\EjemploNHibernate\EjemploNHibernate\bin\Debug\EjemploNHibernate.pdb
+C:\Users\Desi\Documents\Visual Studio 2008\Projects\EjemploNHibernate\EjemploNHibernate\bin\Debug\log4net.dll
+C:\Users\Desi\Documents\Visual Studio 2008\Projects\EjemploNHibernate\EjemploNHibernate\bin\Debug\NHibernate.dll
+C:\Users\Desi\Documents\Visual Studio 2008\Projects\EjemploNHibernate\EjemploNHibernate\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Desi\Documents\Visual Studio 2008\Projects\EjemploNHibernate\EjemploNHibernate\bin\Debug\Iesi.Collections.dll
+C:\Users\Desi\Documents\Visual Studio 2008\Projects\EjemploNHibernate\EjemploNHibernate\bin\Debug\log4net.xml
+C:\Users\Desi\Documents\Visual Studio 2008\Projects\EjemploNHibernate\EjemploNHibernate\bin\Debug\Iesi.Collections.xml
+C:\Users\Desi\Documents\Visual Studio 2008\Projects\EjemploNHibernate\EjemploNHibernate\bin\Debug\NHibernate.xml
+C:\Users\Desi\Documents\Visual Studio 2008\Projects\EjemploNHibernate\EjemploNHibernate\obj\Debug\EjemploNHibernate.exe
+C:\Users\Desi\Documents\Visual Studio 2008\Projects\EjemploNHibernate\EjemploNHibernate\obj\Debug\EjemploNHibernate.pdb
+C:\Users\Desi\Documents\Visual Studio 2008\Projects\EjemploNHibernate\EjemploNHibernate\bin\Debug\Castle.DynamicProxy2.dll
+C:\Users\Desi\Documents\Visual Studio 2008\Projects\EjemploNHibernate\EjemploNHibernate\bin\Debug\Castle.Core.dll
+C:\Users\Desi\Documents\Visual Studio 2008\Projects\EjemploNHibernate\EjemploNHibernate\bin\Debug\Castle.DynamicProxy2.xml
+C:\Users\Desi\Documents\Visual Studio 2008\Projects\EjemploNHibernate\EjemploNHibernate\bin\Debug\Castle.Core.xml
+C:\Users\Desi\Documents\Visual Studio 2008\Projects\EjemploNHibernate\EjemploNHibernate\bin\Debug\EjemploNHibernate.exe.config
+C:\Users\Desi\Documents\Visual Studio 2008\Projects\EjemploNHibernate\EjemploNHibernate\bin\Debug\NHibernate.ByteCode.Castle.dll
+C:\Users\Desi\Documents\Visual Studio 2008\Projects\EjemploNHibernate\EjemploNHibernate\bin\Debug\NHibernate.ByteCode.Castle.xml
+C:\Users\Desi\Documents\Visual Studio 2008\Projects\EjemploNHibernate\EjemploNHibernate\obj\Debug\EjemploNHibernate.FNHibernate.resources
+C:\Users\Desi\Desktop\MASTER\2009-2010\1. Desarrollo avanzado .NET\Clase 2\EjemploNHibernate\EjemploNHibernate\bin\Debug\EjemploNHibernate.exe.config
+C:\Users\Desi\Desktop\MASTER\2009-2010\1. Desarrollo avanzado .NET\Clase 2\EjemploNHibernate\EjemploNHibernate\obj\Debug\EjemploNHibernate.exe
+C:\Users\Desi\Desktop\MASTER\2009-2010\1. Desarrollo avanzado .NET\Clase 2\EjemploNHibernate\EjemploNHibernate\obj\Debug\EjemploNHibernate.pdb
+C:\Users\Desi\Desktop\MASTER\2009-2010\1. Desarrollo avanzado .NET\Clase 2\EjemploNHibernate\EjemploNHibernate\bin\Debug\EjemploNHibernate.exe
+C:\Users\Desi\Desktop\MASTER\2009-2010\1. Desarrollo avanzado .NET\Clase 2\EjemploNHibernate\EjemploNHibernate\bin\Debug\EjemploNHibernate.pdb
+C:\Users\Desi\Desktop\MASTER\2009-2010\1. Desarrollo avanzado .NET\Clase 2\EjemploNHibernate\EjemploNHibernate\bin\Debug\Castle.DynamicProxy2.dll
+C:\Users\Desi\Desktop\MASTER\2009-2010\1. Desarrollo avanzado .NET\Clase 2\EjemploNHibernate\EjemploNHibernate\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Desi\Desktop\MASTER\2009-2010\1. Desarrollo avanzado .NET\Clase 2\EjemploNHibernate\EjemploNHibernate\bin\Debug\Castle.Core.dll
+C:\Users\Desi\Desktop\MASTER\2009-2010\1. Desarrollo avanzado .NET\Clase 2\EjemploNHibernate\EjemploNHibernate\bin\Debug\Castle.DynamicProxy2.xml
+C:\Users\Desi\Desktop\MASTER\2009-2010\1. Desarrollo avanzado .NET\Clase 2\EjemploNHibernate\EjemploNHibernate\bin\Debug\log4net.xml
+C:\Users\Desi\Desktop\MASTER\2009-2010\1. Desarrollo avanzado .NET\Clase 2\EjemploNHibernate\EjemploNHibernate\bin\Debug\NHibernate.ByteCode.Castle.xml
+C:\Users\Desi\Desktop\MASTER\2009-2010\1. Desarrollo avanzado .NET\Clase 2\EjemploNHibernate\EjemploNHibernate\bin\Debug\Iesi.Collections.xml
+C:\Users\Desi\Desktop\MASTER\2009-2010\1. Desarrollo avanzado .NET\Clase 2\EjemploNHibernate\EjemploNHibernate\bin\Debug\NHibernate.xml
+C:\Users\Desi\Desktop\MASTER\2009-2010\1. Desarrollo avanzado .NET\Clase 2\EjemploNHibernate\EjemploNHibernate\bin\Debug\Castle.Core.xml
+C:\Users\Desi\Desktop\MASTER\2009-2010\1. Desarrollo avanzado .NET\Clase 2\EjemploNHibernate\EjemploNHibernate\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Desi\Desktop\MASTER\2009-2010\1. Desarrollo avanzado .NET\Clase 2\EjemploNHibernate\EjemploNHibernate\obj\Debug\EjemploNHibernate.FNHibernate.resources
+C:\Users\Desi\Desktop\MASTER\2009-2010\1. Desarrollo avanzado .NET\Clase 2\EjemploNHibernate\EjemploNHibernate\obj\Debug\EjemploNHibernate.Properties.Resources.resources
+C:\Users\Desi\Desktop\MASTER\2009-2010\1. Desarrollo avanzado .NET\Clase 2\EjemploNHibernate\EjemploNHibernate\obj\Debug\EjemploNHibernate.csproj.GenerateResource.Cache
+F:\MASTER\2010-2011\Programación avanzada en entornos de escritorio\Clase 2\EjemploNHibernate\EjemploNHibernate\bin\Debug\EjemploNHibernate.exe.config
+F:\MASTER\2010-2011\Programación avanzada en entornos de escritorio\Clase 2\EjemploNHibernate\EjemploNHibernate\obj\Debug\EjemploNHibernate.exe
+F:\MASTER\2010-2011\Programación avanzada en entornos de escritorio\Clase 2\EjemploNHibernate\EjemploNHibernate\obj\Debug\EjemploNHibernate.pdb
+F:\MASTER\2010-2011\Programación avanzada en entornos de escritorio\Clase 2\EjemploNHibernate\EjemploNHibernate\bin\Debug\EjemploNHibernate.exe
+F:\MASTER\2010-2011\Programación avanzada en entornos de escritorio\Clase 2\EjemploNHibernate\EjemploNHibernate\bin\Debug\EjemploNHibernate.pdb
+F:\MASTER\2010-2011\Programación avanzada en entornos de escritorio\Clase 2\EjemploNHibernate\EjemploNHibernate\bin\Debug\Castle.Core.dll
+F:\MASTER\2010-2011\Programación avanzada en entornos de escritorio\Clase 2\EjemploNHibernate\EjemploNHibernate\bin\Debug\Iesi.Collections.dll
+F:\MASTER\2010-2011\Programación avanzada en entornos de escritorio\Clase 2\EjemploNHibernate\EjemploNHibernate\bin\Debug\log4net.dll
+F:\MASTER\2010-2011\Programación avanzada en entornos de escritorio\Clase 2\EjemploNHibernate\EjemploNHibernate\bin\Debug\NHibernate.dll
+F:\MASTER\2010-2011\Programación avanzada en entornos de escritorio\Clase 2\EjemploNHibernate\EjemploNHibernate\bin\Debug\Antlr3.Runtime.dll
+F:\MASTER\2010-2011\Programación avanzada en entornos de escritorio\Clase 2\EjemploNHibernate\EjemploNHibernate\bin\Debug\Castle.Core.xml
+F:\MASTER\2010-2011\Programación avanzada en entornos de escritorio\Clase 2\EjemploNHibernate\EjemploNHibernate\bin\Debug\log4net.xml
+F:\MASTER\2010-2011\Programación avanzada en entornos de escritorio\Clase 2\EjemploNHibernate\EjemploNHibernate\bin\Debug\Iesi.Collections.xml
+F:\MASTER\2010-2011\Programación avanzada en entornos de escritorio\Clase 2\EjemploNHibernate\EjemploNHibernate\obj\Debug\ResolveAssemblyReference.cache
+F:\MASTER\2010-2011\Programación avanzada en entornos de escritorio\Clase 2\EjemploNHibernate\EjemploNHibernate\obj\Debug\EjemploNHibernate.FNHibernate.resources
+F:\MASTER\2010-2011\Programación avanzada en entornos de escritorio\Clase 2\EjemploNHibernate\EjemploNHibernate\obj\Debug\EjemploNHibernate.Properties.Resources.resources
+F:\MASTER\2010-2011\Programación avanzada en entornos de escritorio\Clase 2\EjemploNHibernate\EjemploNHibernate\obj\Debug\EjemploNHibernate.csproj.GenerateResource.Cache
+F:\MASTER\2010-2011\Programación avanzada en entornos de escritorio\Clase 2\EjemploNHibernate\EjemploNHibernate\bin\Debug\NHibernate.ByteCode.Castle.dll
+F:\MASTER\2010-2011\Programación avanzada en entornos de escritorio\Clase 2\EjemploNHibernate\EjemploNHibernate\bin\Debug\Castle.DynamicProxy2.dll
+F:\MASTER\2010-2011\Programación avanzada en entornos de escritorio\Clase 2\EjemploNHibernate\EjemploNHibernate\bin\Debug\Castle.DynamicProxy2.xml
+F:\MASTER\2010-2011\Programación avanzada en entornos de escritorio\Clase 2\EjemploNHibernate\EjemploNHibernate\bin\Debug\NHibernate.ByteCode.Castle.xml
+F:\MASTER\2010-2011\Programación avanzada en entornos de escritorio\Clase 2\EjemploNHibernate\EjemploNHibernate\bin\Debug\NHibernate.xml

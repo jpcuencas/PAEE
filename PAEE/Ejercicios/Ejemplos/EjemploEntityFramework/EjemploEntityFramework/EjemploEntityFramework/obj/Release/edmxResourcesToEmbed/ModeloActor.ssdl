@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MSDNVideoDBModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2006/04/edm/ssdl">
+  <EntityContainer Name="MSDNVideoDBModelStoreContainer">
+    <EntitySet Name="Actores" EntityType="MSDNVideoDBModel.Store.Actores" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="Actores">
+    <Key>
+      <PropertyRef Name="ActorID" />
+    </Key>
+    <Property Name="ActorID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Nombre" Type="nvarchar" Nullable="false" MaxLength="200" />
+    <Property Name="UrlPersonal" Type="nvarchar" MaxLength="150" />
+  </EntityType>
+</Schema>
